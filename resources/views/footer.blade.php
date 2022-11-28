@@ -1,0 +1,1 @@
+<p class="bg-primary text-white d-flex justify-content-center">@ Happy Book Store 2022</p>
